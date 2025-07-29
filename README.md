@@ -1,5 +1,6 @@
 # My First Git Project
 This project will greet you!
 ## Project Goals
-- Learn Git
+<<<<<<< HEAD
+- Learn Git and Master Git Basics
 - Collaborate Effectively
